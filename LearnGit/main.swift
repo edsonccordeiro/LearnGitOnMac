@@ -9,6 +9,6 @@ import Foundation
 
 print("Hello, World!")
 print("A terra é azul!")
-print("O lago está vazio")
+print("O lago agora esta muito cheio")
 
 
